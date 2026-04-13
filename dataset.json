@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All verified restaurant listings in Mesa, Arizona with a population of over 504k. Filtered by the Restaurants category group, this city-level dataset provides business profiles, ratings, review counts, contact information, and competitive benchmarks for the local market. Refreshed weekly.",
+  "config_name": "All Restaurants in Mesa, Arizona, US",
+  "export_job_id": "be83a47f-c86e-45a8-bce5-bbce749a1b74",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 706364,
+  "location_name": "Mesa",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-mesa-arizona-us-sample-706364",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/706364/beamstation_706364_restaurants-us-az_SAMPLE_DIST.csv",
+  "sample_pct": 9.96,
+  "sample_records": 165,
+  "sample_sha256": "89489f986cc8e3bd333561c26dfd045802b6ce7112e97e777394a3667b14b29d",
+  "sample_size_bytes": 634462,
+  "total_records": 1656,
+  "updated_at": "2026-04-09T17:47:26.892843+00:00"
+}
