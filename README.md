@@ -1,6 +1,6 @@
 # All Restaurants in Mesa, Arizona, US
 
-> Free BeamStation sample export with 165 rows and masked direct-contact fields.
+> Free BeamStation sample export with 155 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `706364` |
 | Location | Mesa |
 | Category | Restaurants |
-| Full dataset size | 1,656 records |
-| Free sample size | 165 records (9.96%) |
-| Last export | 2026-04-09T17:47:26.892843+00:00 |
+| Full dataset size | 1,556 records |
+| Free sample size | 155 records (9.96%) |
+| Last export | 2026-04-16T20:58:53.278486+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-mesa-arizona-us-sample-706364/releases/download/sample-latest/beamstation_706364_restaurants-us-az_SAMPLE_DIST.csv) |
 
 ## What is in this sample
