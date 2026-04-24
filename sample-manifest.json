@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e8e62d17-5e7b-4c10-80b6-17a4a0dc73e5",
+  "export_job_id": "6c38e6eb-acb2-45bc-b4e2-3a6afcfee31a",
   "id_short": 706364,
-  "published_at": "2026-04-19T19:51:57Z",
+  "published_at": "2026-04-24T07:02:57Z",
   "repo_name": "all-restaurants-in-mesa-arizona-us-sample-706364",
   "sample_asset_name": "beamstation_706364_restaurants-us-az_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/706364/beamstation_706364_restaurants-us-az_SAMPLE_DIST.csv",
-  "sample_records": 155,
-  "sample_sha256": "17a98b805ad47b83d74bb56001eec6660441dd7b9976dd8e06d8d8c06e29b156",
-  "sample_size_bytes": 589860,
-  "total_records": 1556
+  "sample_records": 147,
+  "sample_sha256": "35b59944962a3590bde1451e7c0ec73cb73ecb86b03d0b514f9dc7a448b90439",
+  "sample_size_bytes": 546231,
+  "total_records": 1473
 }
